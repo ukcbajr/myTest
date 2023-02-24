@@ -1,4 +1,4 @@
-Name, Age, City, Zip
-James, 34, Newport Beach, 67352
-Peter, 23, Orange, 28376
-Jane, 26, San Jose, 93874
+Name, Age, City, Zip, Email
+James, 34, Newport Beach, 67352, jamesbrown@someplace.com
+Peter, 23, Orange, 28376, peterwhite@someplace.com
+Jane, 26, San Jose, 93874, janeblack@someplace.com
